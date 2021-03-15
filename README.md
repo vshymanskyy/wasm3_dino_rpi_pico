@@ -3,7 +3,11 @@
 
 Dino game for Raspberry Pi Pico with Pimoroni Pico Display pack
 
-Prebuilt binary (`wasm3_dino.uf2`) is [here](https://github.com/vshymanskyy/wasm3_dino_rpi_pico/releases).
+Prebuilt binary (`wasm3_dino.uf2`) is [**here**](https://github.com/vshymanskyy/wasm3_dino_rpi_pico/releases).
+
+Play the same game [**in your browser**](https://binji.github.io/raw-wasm/dino/).
+
+![Photo](docs/photo.jpg)
 
 ## Controls
 
